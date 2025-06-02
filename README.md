@@ -1,5 +1,7 @@
 # Building/Installing Unxus in a OS
 
+![GitHub branch status](https://img.shields.io/github/checks-status/electric-otter/unxus/main)
+
 Unxus uses C, so using CMake will be the best option
 
 ``

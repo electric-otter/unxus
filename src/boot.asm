@@ -4,7 +4,7 @@ org 0x7c00
 start:
     ; Print a character (optional)
     mov ah, 0x0e
-    mov al, '!'
+    mov al, 'Boot now'
     int 0x10
 
     ; Infinite loop to halt
